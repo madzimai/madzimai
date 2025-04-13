@@ -37,8 +37,8 @@ This hands-on experience has given me a **well-rounded view** of software develo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=netsaichiyaka&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=netsaichiyaka&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madzimai&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madzimai&layout=compact&theme=tokyonight" />
 </p>
 
 ---
