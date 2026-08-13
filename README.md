@@ -81,7 +81,7 @@ This hands-on experience has given me a **well-rounded view** of software develo
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" **alt="VSC" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCODE" **alt="XC" width="60" height="60"/>
 </div>
----
+
 
 ### ✨ A Little Extra
 
