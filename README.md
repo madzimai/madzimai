@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Netsai Chiyaka</h1>
-<h3 align="center">Full-Stack Engineer | React/React Native Enthusiast | Java Learner 🚀</h3>
+<h3 align="center">Full-Stack Engineer | React/React Native Enthusiast | Java backend developer 🚀</h3>
 
 ---
 
